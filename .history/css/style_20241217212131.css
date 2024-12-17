@@ -6948,8 +6948,8 @@ p + .quote-classic {
 .breadcrumbs-custom-path li::after {
 	position: absolute;
 	content: ">>";
-	top: 50%;
-	right: -10px;
+	top: 46%;
+	right: -8px;
 	display: inline-block;
 	font-size: 14px;
 	line-height: 1;

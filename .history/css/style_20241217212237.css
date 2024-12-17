@@ -6949,7 +6949,7 @@ p + .quote-classic {
 	position: absolute;
 	content: ">>";
 	top: 50%;
-	right: -10px;
+	right: -px;
 	display: inline-block;
 	font-size: 14px;
 	line-height: 1;
